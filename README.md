@@ -11,4 +11,4 @@ This script only uses the standard Python library and has no additional dependen
 1. Place the input file `brca_cnvs_tcga-1-2.csv` in the same directory as the script or update the `input_file` path in the script to the location of your CSV file.
 2. Run the script:
    ```bash
-   python CSV_Assign.py
+   python CSV_Assign.py brca_cnvs_tcga-1-2.csv
